@@ -1,0 +1,23 @@
+{
+  "name": "LinkManager",
+  "version": "1.0.0",
+  "description": "This project is being developed during Maratona JS - Emerson Broga",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zmmarina/LinkManager.git"
+  },
+  "keywords": [],
+  "author": "Zandra Monteiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zmmarina/LinkManager/issues"
+  },
+  "homepage": "https://github.com/zmmarina/LinkManager#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
