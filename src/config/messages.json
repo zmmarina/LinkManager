@@ -1,0 +1,13 @@
+{
+    "response.json_ok": "Successful request",
+    "response.json_bad_request": "Invalid request",
+    "response.json_unauthorized": "Not authorized",
+    "response.json_not_found": "Not found",
+    "response.json_server_error": "Server error",
+    "account.signup.email_exists": "Email already registered",
+    "account.signup.success": "Registered successfully",
+    "account.signup.email.string.empty": "Email is mandatory",
+    "account.signup.email.string.email": "Email is not valid",
+    "account.signup.password_confirmation.any.required" : "It is mandatory to confirm password",
+    "account.signup.password.string.empty": "Password is mandatory"    
+}
