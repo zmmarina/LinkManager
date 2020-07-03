@@ -3,16 +3,19 @@ const db = require ("./models");
 
 const authController = require ("./controllers/auth");
 
-const server = express();
+const app = express();
 
-server.use("/auth", authController);
+app.use(express.json());
+app.use(express.urlencoded({ extended: false }));
 
-server.get("/", (req, res) =>{
+app.use("/auth", authController);
+
+app.get("/", (req, res) =>{
     return res.json("API running...");
 })
 
 db.sequelize.sync().then(() =>{
-    server.listen(3001, () =>{
+    app.listen(3001, () =>{
         console.log ("Listening on port 3001");
     });
 });
