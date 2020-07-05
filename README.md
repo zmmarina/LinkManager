@@ -2,7 +2,7 @@
 
 This API Rest project was developed with Node.js during MaratonaJS, with Emerson Broga.
 
-:pencil: <h2> Features </h2>
+ <h2> :pencil: Features </h2>
 <ul>
   <li>User creation in database</li>
   <li>User authentication</li>
