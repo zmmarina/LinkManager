@@ -12,7 +12,7 @@ This API Rest project was developed with Node.js during MaratonaJS, with Emerson
   <li>Edit user information</li>
 </ul>
 
-:wrench: <h2> Main Tools </h2>
+ <h2> :wrench: Main Tools </h2>
 <ul>
   <li>Node.js</li>
   <li>MySQL</li>
@@ -22,5 +22,5 @@ This API Rest project was developed with Node.js during MaratonaJS, with Emerson
   <li>Hapi/Joi</li>
 </ul>
 
-:sparkles: <h2> Result </h2>
+ <h2> :sparkles: Result </h2>
 ![result](api.rest-LinkManager-Visual-Studio-Code-2020-07-05-01-21-07.gif)
