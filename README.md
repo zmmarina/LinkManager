@@ -23,4 +23,5 @@ This API Rest project was developed with Node.js during MaratonaJS, with Emerson
 </ul>
 
  <h2> :sparkles: Result </h2>
-![api](api.rest-LinkManager-Visual-Studio-Code-2020-07-05-01-21-07.gif)
+ 
+![api](https://github.com/zmmarina/LinkManager/blob/master/api.rest-LinkManager-Visual-Studio-Code-2020-07-05-01-21-07.gif)
